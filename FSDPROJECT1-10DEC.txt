@@ -1,0 +1,19 @@
+git init 
+
+git config --global user.name "G-Tejashwini"
+
+git config --global user.email "2400031834@kluniversity.in"
+
+git add.
+
+git commit -m "commited"
+
+git branch -M main
+
+git remote add origin "https://github.com/G-Tejashwini/FSDPROJECT1-10DEC.git"
+
+git push -u origin main
+
+git checkout 
+
+git log
