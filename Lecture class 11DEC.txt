@@ -1,0 +1,72 @@
+Both are LTS (Long-Term Support) versions, meaning they are stable and supported for many years.
+
+Java 17 
+
+✔ Very stable
+✔ Widely used in industry
+✔ Most frameworks fully support it
+✔ Best for beginners and compatibility
+
+Java 21
+
+✔ Latest LTS
+✔ More features (pattern matching, virtual threads, etc.)
+✔ Better performance
+✔ Future-proof
+
+
+
+jdk jre jvm tm vm se eem meaning
+ChatGPT said:
+
+Here are the meanings of all the Java terms in very simple and clear language:
+
+ 1. JVM — Java Virtual Machine
+
+Runs Java bytecode.
+
+Converts bytecode into machine code for your OS.
+
+Every Java program finally runs inside the JVM.
+
+Platform-independent.
+
+
+ 2. JRE — Java Runtime Environment
+
+Contains JVM + libraries needed to run Java programs.
+
+You cannot compile programs with JRE.
+
+Only used for running Java apps.
+
+
+3. JDK — Java Development Kit
+
+Contains JRE + JVM + compiler (javac) + tools.
+
+Used by developers to write, compile, and run Java programs.
+
+“Complete package for developing Java.”
+
+ 4. JSE / Java SE — Java Standard Edition
+
+Core Java for building desktop applications, console apps.
+
+Includes basic libraries (lang, util, io, collections, etc.).
+
+ “Normal Java that we learn.”
+
+ 5. Java EE (Now called Jakarta EE) — Enterprise Edition
+
+For web apps, servers, enterprise applications.
+
+Includes Servlets, JSP, EJB, JPA, etc.
+
+ “Java for big companies and servers.”
+
+ 6. Java ME — Java Micro Edition
+
+Used for small devices (embedded systems, old mobile phones).
+
+ “Java for small/embedded devices.”
